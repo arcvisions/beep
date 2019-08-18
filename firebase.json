@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "beep-colorbar",    
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
